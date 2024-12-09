@@ -1,7 +1,9 @@
+![](https://i.pinimg.com/736x/a9/a8/53/a9a8533cd3f519ab8928ef5696f16f9a.jpg)
+
 # Hi, I'm Elizaveta!
 
 ###  About Me
-I'm a Python AI developer from Saint-Petersburg, Russia. In 2024, I graduated from the Master's program “Technical Vision” at ITMO. :woman_student:
+I'm a Python AI Developer from Saint-Petersburg, Russia. In 2024, I graduated from the Master's program “Technical Vision” at ITMO. :woman_student:
 
 ### Languages and Tools:
 <div align="left">
@@ -34,4 +36,11 @@ I'm a Python AI developer from Saint-Petersburg, Russia. In 2024, I graduated fr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+### My social media
+
+<div align="left">
+  <a href="https://www.instagram.com/kash1na_l1za/profilecard" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://t.me/klentree" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
