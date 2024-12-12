@@ -1,4 +1,8 @@
-![](https://i.pinimg.com/originals/7a/3b/73/7a3b7303d2549d6997b01b0f63da923c.gif)
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://i.pinimg.com/originals/7a/3b/73/7a3b7303d2549d6997b01b0f63da923c.gif"  />
+</div>
 
 # Hi, I'm Elizaveta!
 
