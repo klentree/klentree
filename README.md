@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/736x/a9/a8/53/a9a8533cd3f519ab8928ef5696f16f9a.jpg)
+![](https://i.pinimg.com/originals/7a/3b/73/7a3b7303d2549d6997b01b0f63da923c.gif)
 
 # Hi, I'm Elizaveta!
 
